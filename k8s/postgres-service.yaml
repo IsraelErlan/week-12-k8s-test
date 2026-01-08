@@ -6,7 +6,6 @@ spec:
   type: ClusterIP
   clusterIP: None
   selector: 
-    mathLabels: 
       app: postgres 
   ports: 
     port: 5432
