@@ -1,3 +1,9 @@
+Israel Erlanger 
+325196962 
+Negev
+
+
+
 # Coordinates API - Kubernetes Deployment
 
 A FastAPI application that manages geographic coordinates with PostgreSQL backend, deployed using Kubernetes StatefulSet.
